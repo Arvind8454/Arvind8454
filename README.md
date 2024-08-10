@@ -19,7 +19,7 @@
 
 ---
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
-<h3>I'm a Software Engineer.</h3>
+<h3>I'm a beginner in technical field.</h3>
 
 - 🎓 I am currently pursuing **Computer Science** from **RCET Bhilai**. <br>
 - 👀 I’m interested in Open Source, Web Development.
