@@ -22,7 +22,7 @@
 <h3>I'm a Software Engineer.</h3>
 
 - 🎓 I am currently pursuing **Computer Science** from **RCET Bhilai**. <br>
-- 👀 I’m interested in Open Source, Web Developmen
+- 👀 I’m interested in Open Source, Web Development.
 - 💬 I would love to talk React.js and Web Development.
 - 💞️ I’m looking to collaborate on any open source platform.
 - 💡 I am currently focusing on **Data Structures and Algorithm** in *c++* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
