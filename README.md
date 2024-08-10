@@ -8,9 +8,9 @@
 --->
 
 <h3 align="center">
-	<a>Hi, I'm Shadab Azam Ansari!</a>
+	<a>Hi, I'm Arvind Yadav !</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/sazamansari/sazamansari/"> </a>
+</h3> <a href="https://github.com/Arvind8454"> </a>
 <br/>
 
 <p align="center">
@@ -21,18 +21,18 @@
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m Shadab azam ansari</h1> -->
 <h3>I'm a Software Engineer.</h3>
 
-- 🎓 I am Completed My Bachelors in **Computer Science** from **Galgotias University**. <br>
-- 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
+- 🎓 I am currently pursuing **Computer Science** from **RCET Bhilai**. <br>
+- 👀 I’m interested in Open Source, Web Developmen
 - 💬 I would love to talk React.js and Web Development.
 - 💞️ I’m looking to collaborate on any open source platform.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
+- 💡 I am currently focusing on **Data Structures and Algorithm** in *c++* and **DevOps**. A *beginner* contributor at **Open Source**. <br>
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-- 📫 You can connect with me  by [Mail](mailto:ansarimomshadabazam@gmail.com).
+- 📫 You can connect with me  by [Mail](mailto:arvindkumar90651021@gmail.com).
 
 ---
 <!-- <h2>📫 How to reach me:</h2> <br>
-<a href="mailto:ansarimomshadabazam@gmail.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
-<a href="https://www.linkedin.com/in/sazamansari/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp; 
+<a href="mailto:arvindkumar90651021@gmail.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
+<a href="https://www.linkedin.com/in/arvind-yadav-782b2a23b/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp; 
 
 <hr/> -->
 <h2> 🥞 Tech Stack</h2>
